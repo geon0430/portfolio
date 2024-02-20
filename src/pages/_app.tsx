@@ -21,7 +21,7 @@ const DEFAULT_SEO = {
     //     url: "/share.png",
     //     width: 285,
     //     height: 167,
-    //     alt: "홍길동 | Front-End Dev",
+    //     alt: "이창건 | MLOps Dev",
     //   },
     ],
   },
