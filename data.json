@@ -1,0 +1,136 @@
+{
+  "resumeTitle": {
+    "title": "Chang Geon Lee"
+  },
+
+  "information": {
+    "name": "이창건",
+    "contact": [
+      { "id": 0, "name": "Email", "href": "jack058725@naver.com", "isEmail": true },
+      { "id": 1, "name": "Github", "href": "https://github.com/geon0430" },
+      { "id": 2, "name": "Blog", "href": "https://velog.io/@geon0430" }
+    ]
+  },
+
+  "workExperience": [
+    {
+      "id": 0,
+      "name": "(주)인빅",
+      "position": "MLOps AI Developer",
+      "period": ["2023. 03", "working"]
+    }
+  ],
+
+  "project": [
+    {
+      "id": 0,
+      "name": "licenseplate_project | 자동차 번호판 탐지 모델 개발",
+      "description": "yolo로 번호판을 인식하고 ocr을 통해 번호판을 추출하는 AI Model 개발 CNN + CBAM을 활용하여 직접 모델 한층한층 개발 + web dashboard로 표현 ",
+      "PaperUrl": "https://url.kr/ma97vh",
+      "isTeam": true,
+      "period": ["2023. 3", "2022. 07"],
+      "stack": ["python", "pandas", "numpy", "pytorch", "fastapi"]
+    },
+    {
+      "id": 1,
+      "name": "실시간 FHD로 이미지 변환 모델을 적용하여 스트리밍 해주는 rtsp server 개발",
+      "description": "실시간으로 들어오는 FHD DATA를 이미지 변환 모델 INPUT에 맞는 타입으로 변환 및 모델 적용 나온 결과를 0.03 안에 처리하여 스트리밍 해주는 서버를 개발하였음 ",
+      "isTeam": false,
+      "period": ["2023. 10", "2024. 2"],
+      "stack": ["Go", "python","ffmpeg","gocv"]
+    }
+  ],
+
+  "activity": [
+    {
+      "id": 0,
+      "name": "회사 시제품 서버 조립",
+      "period": ["2023. 12", "2023. 12"],
+      "description": "개발한 소프트웨어를 테스트하기 위한 서버 조립 및 전시회 시연용 서버를 조립하고 고정 ip, nvidia driver, cuda, cudnn, nvidia-docker 설치를 하였음"
+    }
+  ],
+
+  "education": [
+    {
+      "id": 0,
+      "name": "KAIST Machine Learning and Big Data Course",
+      "period": ["2013. 10", "2020. 11"],
+      "description": "KAIST에서 주최한 Machine Learning and Big Data 교육 수료"
+    },
+    {
+      "id": 1,
+      "name": "nvidia 딥러닝의 기초 수료",
+      "period": ["2013. 4", "2020. 04"],
+      "description": "nvidia에서 주최한 딥러닝의 기초 교육 수료"
+    }
+  ],
+
+  "Paper": [
+    {
+      "id": 0,
+      "name": "딥러닝 기반 인간 두부 인식을 이용한 대중 밀집도 인식",
+      "date": "department",
+      "organizer": "대한전자공학회"
+    },
+    {
+      "id": 1,
+      "name": "시각 장애 보조를 위한 딥러닝 기반 실내 장애물 인식",
+      "date": "department",
+      "organizer": "한국멀티미디어학회"
+    },
+    {
+      "id": 2,
+      "name": "어디서든 확인 가능한 IOT 기반 스마트 휴지 케이스",
+      "date": "department",
+      "organizer": "한국멀티미디어학회"
+    },
+    {
+      "id": 3,
+      "name": "전기차 충전 기능이 있는 주차 관리 시스템 개발에 관한 연구",
+      "date": "department",
+      "organizer": "디지털콘텐츠학회"
+    },
+    {
+      "id": 4,
+      "name": "CNN을 활용한 Image Style Transfer 웹 서비스",
+      "date": "department",
+      "organizer": "한국멀티미디어학회"
+    },
+    {
+      "id": 5,
+      "name": "COTC(Channel-wise Ordered Text Classifier)를 활용한 한국 자동차 번호판 인식 딥러닝 모델",
+      "date": "department",
+      "organizer": "정보과학회"
+    },
+    {
+      "id": 6,
+      "name": "Density Detection by Human Head Recognition Using Deep Learning ",
+      "date": "department",
+      "organizer": "ICCE-Asia_2023-Population"
+    }
+  ],
+
+  "award": [
+    {
+      "id": 0,
+      "name": "디지털콘텐츠학회 우수논문상",
+      "date": "2023. 07. 4",
+      "organizer": "디지털콘텐츠학회",
+      "description": "학부 논문경진대회에서 수상"
+    },
+    {
+      "id": 0,
+      "name": "IEEE 우수논문상",
+      "date": "2022. 11. 28",
+      "organizer": "한국멀티미디어학회",
+      "description": "한국멀티미디어학회 주최된 학부 논문 경진대회에서 수상"
+    },
+    {
+      "id": 0,
+      "name": "한국멀티미디어학회 우수논문상",
+      "date": "2023. 11. 17",
+      "organizer": "한국멀티미디어학회",
+      "description": "한국멀티미디어학회 주최된 학부 논문 경진대회에서 수상"
+    }
+  ]
+}
