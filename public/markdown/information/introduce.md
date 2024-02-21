@@ -1,7 +1,3 @@
-- Hoo-ooh-ooh-ooh
-- Hoo-ooh-ooh-ooh
-- Stay in the middle
-- Like you a little
-- Don't want no riddle
-- 말해줘 say it back, oh, say it ditto
-- 아침은 너무 멀어 so say it ditto
+- 많은 회사들이 AI 모델 개발에 힘을 쓰고 있다고 생각합니다. 보다 다양한 경험을 스스로 만들며 경험하고 있습니다.
+- 제품은 무엇보다 사용자 중심적이어야 한다고 생각합니다. 따라서 UX/UI에 높은 가치를 두며, UX를 개선하는 일에 관심이 많습니다.
+- AI 모델만 있어서는 사용자가 AI 모델을 사용할수 없습니다. 그렇기에 AI모델을 표현 할 수 있는 플렛폼을 개발하고 경험을 쌓고 있습니다.

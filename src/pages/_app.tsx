@@ -7,22 +7,21 @@ import type { AppProps } from "next/app";
  * @description SEO를 위해 본인의 정보로 수정해주세요.
  */
 const DEFAULT_SEO = {
-  title: "이창건 | MLOps Dev",
   description: "안녕하세요, MLOps 개발자 이창건입니다.",
-  canonical: "https://www.naver.com/",
+  // canonical: "https://www.naver.com/",
   openGraph: {
     type: "AI, Backend",
     locale: "ko_KR",
-    url: "https://www.naver.com/",
+    // url: "https://www.naver.com/",
     title: "이창건 | MLOps Dev",
     site_name: "이창건 | MLOps Dev",
-    // images: [
-    //   {
-    //     url: "/share.png",
-    //     width: 285,
-    //     height: 167,
-    //     alt: "이창건 | MLOps Dev",
-    //   },
+    images: [
+      {
+        url: "./IMG_3593.png",
+        width: 285,
+        height: 167,
+        alt: "이창건 | MLOps Dev",
+      },
     ],
   },
   additionalLinkTags: [
