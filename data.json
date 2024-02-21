@@ -36,7 +36,7 @@
       "description": "실시간 FHD 화질로 이미지 변환 모델을 적용하여 스트리밍 해주는 rtsp server 개발",
       "isTeam": true,
       "period": ["2023. 9", "2024. 2"],
-      "stack": ["Go","python","ffmpeg","deepstream"]
+      "stack": ["Go","python","ffmpeg","deepstream","gocv"]
     },
     {
       "id": 2,
